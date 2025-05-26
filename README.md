@@ -2,7 +2,8 @@
 <p align="center">
   <em>Beginner in the world of pentesting and development</em><br>
   <em>Hungry for knowledge and passion for cybersecurity & development</em><br>
-  <em>ENG/ESP</em>
+  <em>ENG/ESP</em><br>
+  <em>🇺🇸 / 🇪🇸</em>
 </p>
 
 ### 🧠 About Me 
