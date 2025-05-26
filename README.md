@@ -1,7 +1,7 @@
 <h1 align="center">🧑‍💻 Prestige</h1>
 <p align="center">
   <em>Beginner in the world of pentesting and development</em><br>
-  <em>Hungry for knowledge and passion for cybersecurity & development</em>.
+  <em>Hungry for knowledge and passion for cybersecurity & development</em><br>
   <em>ENG/ESP</em>
 </p>
 
