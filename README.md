@@ -1,4 +1,4 @@
-<h1 align="center">$ Rthy</h1>
+<h1 align="center">$   v4nish</h1>
 <p align="center">
   <em>Beginner in the world of pentesting and development</em><br>
   <em>Hungry for knowledge and passion for cybersecurity & development</em><br>
@@ -9,7 +9,6 @@
 ### 🧠 About Me 
 
 - 👶 I have **15y**
-- 💻 I have been **6 months learning to program**.
 - 🛡️ I am training as a **pentester**.
 - 🧩 I like to investigate how systems work... and how they can be broken.
 - 💡 I believe that knowledge is gained through practice, not just theory.
@@ -40,7 +39,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iV4leen&show_icons=true&theme=merko" alt="$ Rthy GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iV4leen&show_icons=true&theme=merko" alt="$   v4nish GitHub stats" />
 </p>
 
 ---
