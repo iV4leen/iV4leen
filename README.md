@@ -23,6 +23,8 @@
 | 🐍 Python | Automation, ethical hacking scripting |
 | 🐘 PHP | Testing in vulnerable web environments |
 | ☕ Java | Solid foundation of logic and structured programming |
+| 🐉 Lua | For creating scripts in games. |
+
 
 > ✍️ I learn by practicing with small scripts, testing in VMs, and web challenges.
 
@@ -39,7 +41,7 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iV4leen&show_icons=true&theme=merko" alt="$   v4nish GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=v4nishh&show_icons=true&theme=merko" alt="$   v4nish GitHub stats" />
 </p>
 
 ---
